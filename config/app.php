@@ -162,6 +162,8 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        Laratrust\LaratrustServiceProvider::class,
+
 
         /*
          * Package Service Providers...
@@ -228,6 +230,8 @@ return [
         //add on
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\FormFacade::class,
+        //laratrust
+        'Laratrust' => Laratrust\LaratrustFacade::class,
 
     ],
 
