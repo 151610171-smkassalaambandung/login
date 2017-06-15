@@ -14,6 +14,8 @@
     <link href="/css/app.css" rel="stylesheet">
     <link href="/css/boottstrap.min.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/jquery.dataTables.css" rel="stylesheet">
+    <link href="/css/dataTables.bootstrap.css" rel="stylesheet">
 
     <!-- Scripts -->
     <script>
@@ -89,6 +91,8 @@ background-attachment: fixed;">
     </div>
 
     <!-- Scripts -->
+    <script src="/js/jquery.dataTables.min.js"></script>
+    <script src="/js/dataTables.bootstrap.min.js"></script>
     <script src="/js/app.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     @include('layouts.menu')
