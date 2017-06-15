@@ -1,1 +1,0 @@
-<center><h1>Silahkan Masuk Atau Daftar Dulu</h1></center>
