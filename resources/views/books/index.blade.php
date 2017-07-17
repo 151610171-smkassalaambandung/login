@@ -10,7 +10,7 @@
              <div class="panel panel-default" style="background :rgba(255,113,17,0.2)" >
             <div class="panel panel-primary">
                 <div class="panel-heading">
-                    <h2 class="panel-title">Penulis</h2>
+                    <h2 class="panel-title">Buku</h2>
                 </div>
                 <div class="panel-body">
                 <p> <a class="btn btn-primary" href="{{ url('/admin/books/create') }}">Tambah</a></p>
