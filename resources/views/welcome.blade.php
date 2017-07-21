@@ -7,7 +7,7 @@
              <div class="panel" style="background :rgba(255,113,17,0.2)" >
                 <div class="panel-heading">Halo</div>
                 <div class="panel-body">
-                    Selamat datang di Larapus
+                    Selamat datang di Larapiket
                 </div>
             </div>
         </div>

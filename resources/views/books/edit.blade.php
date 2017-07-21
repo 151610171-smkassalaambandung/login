@@ -8,6 +8,7 @@
 				<li><a href="{{ url('/admin/books') }}">Buku</a></li>
 				<li class="active">Ubah Buku</li>
 			</ul>
+			<div class="panel" style="background :rgba(255,113,17,0.2)" >
 			<div class="panel panel-primary">
 				<div class="panel-heading">
 					<h2 class="panel-title">Ubah Buku</h2>

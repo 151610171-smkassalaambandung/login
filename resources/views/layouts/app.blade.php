@@ -53,12 +53,12 @@ background-attachment: fixed;">
                     <!-- Left Side Of Navbar -->
                     <ul class="nav navbar-nav">
                     @if (Auth::check())
-                         <li><a href="{{ url('/home') }}">Dashboard</a></li>
+                         <li><a href="{{ url('/home') }}">Kehadiran Guru</a></li>
                           
                     @endif
                     @role('admin')
-                    <li><a href="{{ route('authors.index') }}">Penulis</a></li>
-                     <li><a href="{{ route('books.index') }}">Buku</a></li>
+                    <li><a href="{{ route('authors.index') }}">Kehadiran Siswa</a></li>
+                     <li><a href="{{ route('books.index') }}">Siswa terlambat</a></li>
                     @endrole
                         &nbsp;
                     </ul>
